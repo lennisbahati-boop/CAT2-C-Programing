@@ -2,7 +2,7 @@
 Name:Lennis Bahati
 Reg no:PA106/G/28806/25
 Description :CAT 2
-Sir this one was very difficult for me so i used A.I to try and understand it so please understand me.
+
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -112,3 +112,4 @@ int main() {
 
     return 0;
 }
+
