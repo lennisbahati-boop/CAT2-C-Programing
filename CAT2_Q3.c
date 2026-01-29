@@ -2,7 +2,6 @@
 Name:Lennis Bahati
 Reg no:PA106/G/28806/25
 Description :CAT 2
-
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -112,4 +111,5 @@ int main() {
 
     return 0;
 }
+
 
